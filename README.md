@@ -10,29 +10,29 @@ AIを使うだけじゃなく、自分で作りたかったが敷居が高くて
 
 https://camp.trainocate.co.jp/magazine/python_machine_learning/
 
-・確率密度関数とは
+？確率密度関数とは
 
 https://best-biostatistics.com/summary/prob-density.html
 
-正規分布とは
+？正規分布とは
 
 https://best-biostatistics.com/summary/normal_dist.html
 
-中心極限定理とは
+？中心極限定理とは
 
 https://best-biostatistics.com/hypo_test/clt.html
 
-母集団と標本の関係
+？母集団と標本の関係
 
 https://best-biostatistics.com/biostat/boshuudan.html
 
-一般化可能性について
+？一般化可能性について
 
 https://best-biostatistics.com/design/ippannka.html
 
 →正規分布とは
 
-標準偏差とは
+？標準偏差とは
 
 https://best-biostatistics.com/excel/sd_excel.html
 

@@ -1,2 +1,3 @@
-# AI-Study-Record
-🎞️ This is a dialog about me studying AI programming
+# AI学習記録
+
+AIを使うだけじゃなく、自分で作りたかったが敷居が高くて今まで避けてきた。なのでここにどのように学習してきたかを記録して、AI無知の自分がどうやって独学してきたか共有しようと思う。これをReadmeを完成させることをモチベに今日(2023/5/22)から尽力する。

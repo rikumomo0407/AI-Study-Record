@@ -10,8 +10,7 @@ AIを使うだけじゃなく、自分で作りたかったが敷居が高くて
 
 https://camp.trainocate.co.jp/magazine/python_machine_learning/
 
-
-・確率密度関数とは
+？確率密度関数とは
 
 https://best-biostatistics.com/summary/prob-density.html
 

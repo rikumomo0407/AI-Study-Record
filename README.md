@@ -49,5 +49,5 @@ https://di-acc2.com/programming/python/8702/
 
 ？正解率・適合率・再現率の違い
 
-https://www.google.co.jp/search?q=%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%83%BB%E9%81%A9%E5%90%88%E7%8E%87%E3%83%BB%E5%86%8D%E7%8F%BE%E7%8E%87+%E9%81%95%E3%81%84&client=safari&channel=iphone_bm&ei=z6ZtZMzKEovK2roP6Ye7oA4&oq=%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%83%BB%E9%81%A9%E5%90%88%E7%8E%87%E3%83%BB%E5%86%8D%E7%8F%BE%E7%8E%87+%E9%81%95%E3%81%84&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsAMyCggAEEcQ1gQQsANKBAhBGABQAFgAYJgGaAFwAXgAgAEAiAEAkgEAmAEAyAEKwAEB&sclient=mobile-gws-wiz-serp
+https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/#:~:text=二値分類の予測,%2Dmeasure)といいます%E3%80%82
 

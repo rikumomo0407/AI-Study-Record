@@ -41,7 +41,7 @@ https://best-biostatistics.com/excel/sd_excel.html
 ←確率密度関数とは
 
 
-・k近傍法とは
+？k近傍法とは
 
 https://hogetech.info/machine-learning/algorithm/knn
 

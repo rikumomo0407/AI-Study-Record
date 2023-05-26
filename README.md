@@ -51,7 +51,7 @@ https://di-acc2.com/programming/python/8702/
 
 https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure
 
-■ skylearnのデータシートでk近傍法を用いて簡単な教師あり機械学習プログラムを作ってみよう。
+■ skylearnのサンプルデータシートからk近傍法を用いて簡単な教師あり機械学習プログラムを作ってみよう。
 
 ・フォルダ「[001](https://github.com/rikumomo0407/AI-Study-Record/tree/main/001)」を参照。
 

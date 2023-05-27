@@ -55,6 +55,6 @@ https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure
 
 ・フォルダ「[001](https://github.com/rikumomo0407/AI-Study-Record/tree/main/001)」を参照。
 
-■ データシートを自作してみよう
+■ Webスクレイピングを使ってデータシートを自作してみよう。
 
 ・

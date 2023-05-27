@@ -57,4 +57,6 @@ https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure
 
 ■ Webスクレイピングを使ってデータシートを自作してみよう。
 
-・
+※スクレイピングは以前使ったことがあるので学習記録は割愛します。基礎が掲載されているURLだけ下に貼っておきます。
+
+https://ai-inter1.com/python-selenium/

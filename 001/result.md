@@ -1,6 +1,6 @@
 # サンプルデータを使った機械学習
 
-今回はskylearnのサンプルデータload_breast_cancerの癌の診断結果を元に、癌の分類を学習させる。
+今回はskylearnのサンプルデータload_breast_cancerの癌の診断結果を元に、癌の分類をk近傍法を用いて学習させる。
 
 プログラム本体はmain.pyに記載
 

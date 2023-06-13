@@ -21,7 +21,7 @@ correct = 0 #正解数
 false = 0 #不正解数
 max_acc = 0 #最大正答率
 max_point = 0 #最高パラメータ
-neighbors = 1 #パラメータの初期値
+min_neighbor = 1 #パラメータの初期値
 max_neighbor = 50 #最大パラメータ
 result = [] #グラフに表示するため正答率を格納
 ```
@@ -40,8 +40,8 @@ print(iris_dataframe)
 ## kパラメータのチューニング
 
 ```
-for i in range(max_neighbor):
-    knn = KNeighborsClassifier(n_neighbors=neighbors)
+for neighbor in range(min_neighbor, max_neighbor):
+    knn = KNeighborsClassifier(n_neighbors=neighbor)
     knn.fit(X_train, y_train)
     y_pred = knn.predict(X_test)
     for i,j in zip(y_test,y_pred):
@@ -51,11 +51,10 @@ for i in range(max_neighbor):
         else:
             false += 1
     acc = round(100 * correct / (correct + false), 3)
-    print("k=" + str(neighbors) + ", 正答率 : " + str(acc) + "%")
+    print("k=" + str(neighbor) + ", 正答率 : " + str(acc) + "%")
     result.append(acc)
     if acc > max_acc:
         max_acc = acc
-        max_point = neighbors
-    neighbors += 1
+        max_point = neighbor
 ```
 

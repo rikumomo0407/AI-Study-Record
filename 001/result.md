@@ -7,11 +7,11 @@
 ## 使用したライブラリ
 
 ```
-import pandas as pd
-from sklearn.datasets import load_breast_cancer
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
-import matplotlib.pyplot as plt
+import pandas as pd #データをdataframe型に変換するため
+from sklearn.datasets import load_breast_cancer #サンプルデータ
+from sklearn.model_selection import train_test_split #サンプルデータ分割用
+from sklearn.neighbors import KNeighborsClassifier #k近傍法の学習用
+import matplotlib.pyplot as plt #グラフ表示用
 ```
 
 ## 変数の定義
@@ -42,7 +42,6 @@ print(iris_dataframe)
 ```
 for i in range(max_neighbor):
     knn = KNeighborsClassifier(n_neighbors=neighbors)
-    # knn = KNeighborsClassifier(n_neighbors=1)
     knn.fit(X_train, y_train)
     y_pred = knn.predict(X_test)
     for i,j in zip(y_test,y_pred):

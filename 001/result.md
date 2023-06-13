@@ -17,12 +17,13 @@ import matplotlib.pyplot as plt #グラフ表示用
 ## 変数の定義
 
 ```
+MIN_NEIGHBOR = 1 #最小パラメータ
+MAX_NEIGHBOR = 50 #最大パラメータ
+
 correct = 0 #正解数
 false = 0 #不正解数
 max_acc = 0 #最大正答率
 max_point = 0 #最高パラメータ
-min_neighbor = 1 #パラメータの初期値
-max_neighbor = 50 #最大パラメータ
 result = [] #グラフに表示するため正答率を格納
 ```
 
@@ -31,16 +32,15 @@ result = [] #グラフに表示するため正答率を格納
 ```
 cancer_dataset = load_breast_cancer() #癌の診断結果を呼び出す
 
-X_train, X_test, y_train, y_test = train_test_split(cancer_dataset['data'], cancer_dataset['target'], random_state=5) #学習用データと標本用データを分割
+X_train, X_test, y_train, y_test = train_test_split(cancer_dataset['data'], cancer_dataset['target'], random_state=5) #学習用データと標本用データに分割
 
 iris_dataframe = pd.DataFrame(X_train, columns=cancer_dataset.feature_names) #datafrme型に変換
-print(iris_dataframe)
 ```
 
 ## kパラメータのチューニング
 
 ```
-for neighbor in range(min_neighbor, max_neighbor):
+for neighbor in range(MIN_NEIGHBOR, MAX_NEIGHBOR):
     knn = KNeighborsClassifier(n_neighbors=neighbor)
     knn.fit(X_train, y_train)
     y_pred = knn.predict(X_test)

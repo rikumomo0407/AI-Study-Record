@@ -58,3 +58,6 @@ for neighbor in range(MIN_NEIGHBOR, MAX_NEIGHBOR):
         max_point = neighbor
 ```
 
+cancer 最高値はk=28の時で正答率は96.054%です
+
+

@@ -21,7 +21,7 @@ MIN_NEIGHBOR = 1 #最小パラメータ
 MAX_NEIGHBOR = 50 #最大パラメータ
 
 correct = 0 #正解数 right
-false = 0 #不正解数 wrong
+false = 0 #不正解数 wrong いらん？
 max_acc = 0 #最大正答率
 max_point = 0 #最高パラメータ
 result = [] #グラフに表示するため正答率を格納

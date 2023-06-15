@@ -60,6 +60,18 @@ for neighbor in range(MIN_NEIGHBOR, MAX_NEIGHBOR):
 
 cancer 最高値はk=28の時で正答率は96.054%です
 
+<a href="https://github.com/rikumomo0407/AI-Study-Record//raw/main/001/cancer.png">
+  <img width="100%" src="https://github.com/rikumomo0407/AI-Study-Record//raw/main/001/cancer.png" />
+</a>
+
 iris 最高値はk=29の時で正答率は97.822%です
 
+<a href="https://github.com/rikumomo0407/AI-Study-Record//raw/main/001/iris.png">
+  <img width="100%" src="https://github.com/rikumomo0407/AI-Study-Record//raw/main/001/iris.png" />
+</a>
+
 wine 最高値はk=1の時で正答率は75.556%です
+
+<a href="https://github.com/rikumomo0407/AI-Study-Record//raw/main/001/wine.png">
+  <img width="100%" src="https://github.com/rikumomo0407/AI-Study-Record//raw/main/001/wine.png" />
+</a>

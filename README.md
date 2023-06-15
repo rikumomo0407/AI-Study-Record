@@ -4,7 +4,7 @@ AIを使うだけじゃなく、自分で作りたかったが敷居が高くて
 
 ## 学習記録
 
-■ サンプルコードを見てみよう
+■ (読解) サンプルコードを見てみよう
 
 ・機械学習についてとサンプルコード
 
@@ -51,14 +51,16 @@ https://di-acc2.com/programming/python/8702/
 
 https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure
 
-■ skylearnのサンプルデータシートからk近傍法を用いて簡単な教師あり機械学習プログラムを作ってみよう。
+■ (実践) skylearnのサンプルデータシートからk近傍法を用いて簡単な教師あり機械学習プログラムを作ってみよう。
 
 ・フォルダ「[001](https://github.com/rikumomo0407/AI-Study-Record/tree/main/001)」を参照。
 
-■ Webスクレイピングを使ってデータシートを自作してみよう。
+■ (読解) Webスクレイピングを使ってデータシートを自作してみよう。
 
 ※スクレイピングは以前使ったことがあるので学習記録は割愛します。基礎が掲載されているURLだけ下に貼っておきます。
 
 https://ai-inter1.com/python-selenium/
 
-・フォルダ「002」を参照。
+■ (実践) Webスクレイピングを使ってデータシートを自作してみよう。
+
+・フォルダ「[002](https://github.com/rikumomo0407/AI-Study-Record/tree/main/002)」を参照。
